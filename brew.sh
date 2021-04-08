@@ -7,3 +7,4 @@ brew install notion
 brew install iterm2
 brew install jetbrains-toolbox
 brew install go
+brew install wget
