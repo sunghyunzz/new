@@ -2,3 +2,12 @@ brew reinstall git
 brew reinstall ruby
 brew reinstall python
 brew install spotify
+brew install figma
+brew install notion
+brew install iterm2
+brew install jetbrains-toolbox
+brew install go
+brew install node
+brew install wget
+brew install neovim
+brew install docker
